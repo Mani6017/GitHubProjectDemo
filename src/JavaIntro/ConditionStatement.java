@@ -21,7 +21,7 @@ public class ConditionStatement {
      stat.userMethod();
      
      // if- else statement
-     
+     // if- else statement
      int time = 23;
      String str = time > 21 ? "good day" : "good evening";
      System.out.println(str);
