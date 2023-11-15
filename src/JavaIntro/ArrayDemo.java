@@ -11,6 +11,7 @@ public class ArrayDemo {
 		System.out.println(" get particular element " + cars[0]);
 		
 		// change an element
+		//change an element
 		cars[0] = "Honda";
 		System.out.println(cars[0]);
 		/*for (int i = 0; i < cars.length; i++){
